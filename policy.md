@@ -1,5 +1,6 @@
 <h1>Privacy Policy for CFlash</h1>
 <p><strong>Developer: Cyrex Ltd</strong></p>
+<p><strong>Updated Date:</strong> JULY 5, 2025</p>
 <p><strong>Effective Date:</strong> JULY 5, 2025</p>
 
 <p>
