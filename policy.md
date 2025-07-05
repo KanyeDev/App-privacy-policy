@@ -1,14 +1,10 @@
 <h1>Privacy Policy for CFlash</h1>
 <p><strong>Developer: Cyrex Ltd</strong></p>
-<p><strong>Effective Date:</strong> April 20, 2024</p>
+<p><strong>Effective Date:</strong> JULY 5, 2025</p>
 
 <p>
 This Privacy Policy explains how CFlash, developed and maintained by Cyrex Ltd, collects, uses, and protects your personal information while using the application. By using the app, you agree to the practices described in this policy.
 </p>
-
-<h1>Privacy Policy</h1>
-<p>Last updated: April 20, 2024</p>
-<p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
 <p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
 <h2>Interpretation and Definitions</h2>
 <h3>Interpretation</h3>
